@@ -1,4 +1,4 @@
-## Link do vídeo: 
+## Link do vídeo: https://youtube.com/shorts/9TD9wvVsWKY
 
 # Projeto BitDogLab – Interfaces de Comunicação Serial com RP2040
 
